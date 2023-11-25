@@ -1,0 +1,10 @@
+primeiro
+segundo
+terceiro
+some text
+quinto
+<<<<<<< HEAD
+setimo
+=======
+quarto
+>>>>>>> feature
